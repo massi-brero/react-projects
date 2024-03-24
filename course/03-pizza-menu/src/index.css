@@ -165,6 +165,7 @@ body {
 }
 
 .btn {
+  display: block;
   color: inherit;
   font-family: inherit;
   border: none;
@@ -174,6 +175,7 @@ body {
   padding: 1.4rem 3.2rem;
   cursor: pointer;
   transition: all 0.2s;
+  margin: 2rem auto;
 }
 
 .btn:hover {
